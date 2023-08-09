@@ -1,0 +1,53 @@
+.box {
+    margin: 200px 400px;
+    border: none;
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: Bodoni MT Condensed;
+}
+
+h4 {
+    font-size: 14px;
+    font-family: "Google Sans", Roboto, Arial, sans-serif;
+
+}
+
+.in1 {
+
+    border-color: lightgray;
+    padding: 7px 30px;
+    border-radius: 5px;
+
+}
+
+.in2 {
+
+    border-color: lightgray;
+    padding: 7px 30px;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+.btn{
+    border:none;
+    background-color: black;
+    color:white;
+    margin-top: 20px;
+    padding: 10px 30px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+
+}
+p{
+    color:rgb(184, 178, 178);
+    font-family: "Google Sans", Roboto, Arial, sans-serif;
+    font-size: 12px;
+
+}
+a{
+    color:rgb(138, 137, 137);
+    font-family: "Google Sans", Roboto, Arial, sans-serif;
+    font-size: 12px;
+}

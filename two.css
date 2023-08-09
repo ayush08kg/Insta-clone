@@ -1,0 +1,46 @@
+.box {
+    border: 2px solid lightgray;
+    width: 450px;
+    border-radius: 10px;
+    /* padding-left: 20px; */
+    font-family: "Google Sans", Roboto, Arial, sans-serif;
+    margin: 60px auto;
+}
+
+.text {
+    color: grey;
+}
+
+h2 {
+    color: black;
+    font-weight:10;
+
+}
+
+.box-img1 {
+    border-radius: 50px;
+    width:65px;
+    margin-left: 35px;
+}
+
+.box-img2 {
+    border-radius: 1px;
+    width:65px;
+    margin-left: 85px;
+}
+hr{
+    border:1px solid lightgrey;
+    margin:0;
+}
+.inner{
+    padding-top: 30px;
+    color:#1A73E8;
+    font-weight: 500;
+}
+.box2{
+    padding-left: 20px;
+}
+.box3{
+    padding-left: 20px;
+    
+}

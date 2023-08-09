@@ -1,0 +1,25 @@
+.box{
+    padding-top: 60px;
+    padding-bottom: 100px;
+    padding-left: 50px;
+    width: 500px;
+    margin: 70px auto;
+    background-color:#57de8b;
+    border-radius: 10px;
+    font-size: small;
+    font-weight: 500px;
+    font-family: 'Roboto', sans-serif;
+}
+h2{
+    font-size: 35px;
+}
+.bt{
+    border: none;
+    border-radius: 20px;
+    background-color: white;
+    padding: 10px 30px;
+    font-weight: 100px;
+    margin-top: 20px;
+    font-family: 'Noto Sans', sans-serif;
+    
+}

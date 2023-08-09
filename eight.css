@@ -1,0 +1,40 @@
+.box{
+    width:400px;
+    height:300px;
+    border:2px solid lightgrey;
+    margin: 50px auto;
+    border-radius:20px;
+    font-family: "Google Sans", Roboto, Arial, sans-serif;
+    
+    
+}
+.tesla{
+    width: 400px;
+    height:120px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    position: relative;
+}
+.elon{
+    height: 100px;
+    width: 100px;
+    border-radius: 80%;
+    position: absolute;
+    top: 130px;
+    left:709px;
+    margin-bottom: -30px;
+    border: 2px solid white;
+}
+.text{
+    top: 235px;
+    left:688px;
+    position: absolute;
+}
+.desc{
+    /* text-align: center; */
+    top: 287px;
+    left:679px;
+    position: absolute;
+    color:rgb(91, 86, 86);
+    font-weight:500;
+}
